@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.9">
+<file name="/Users/Jack/cs1331/hw-pokemon/src/main/java/Blaziken.java">
+</file>
+<file name="/Users/Jack/cs1331/hw-pokemon/src/main/java/ControlPanel.java">
+</file>
+<file name="/Users/Jack/cs1331/hw-pokemon/src/main/java/Exeggcute.java">
+</file>
+<file name="/Users/Jack/cs1331/hw-pokemon/src/main/java/FireType.java">
+</file>
+<file name="/Users/Jack/cs1331/hw-pokemon/src/main/java/GrassType.java">
+</file>
+<file name="/Users/Jack/cs1331/hw-pokemon/src/main/java/Meowth.java">
+</file>
+<file name="/Users/Jack/cs1331/hw-pokemon/src/main/java/NormalType.java">
+</file>
+<file name="/Users/Jack/cs1331/hw-pokemon/src/main/java/PokeBattle.java">
+</file>
+<file name="/Users/Jack/cs1331/hw-pokemon/src/main/java/PokeWorld.java">
+</file>
+<file name="/Users/Jack/cs1331/hw-pokemon/src/main/java/Pokemon.java">
+</file>
+<file name="/Users/Jack/cs1331/hw-pokemon/src/main/java/Poliwhirl.java">
+</file>
+<file name="/Users/Jack/cs1331/hw-pokemon/src/main/java/Torterra.java">
+</file>
+<file name="/Users/Jack/cs1331/hw-pokemon/src/main/java/WaterType.java">
+</file>
+</checkstyle>
